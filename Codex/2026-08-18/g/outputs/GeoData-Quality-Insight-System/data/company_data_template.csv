@@ -1,0 +1,3 @@
+place_id,place_name,city,latitude,longitude,category,distance_km,normal_eta_min,actual_eta_min,traffic_level
+10001,Airport Terminal 1,Kolkata,22.654,88.446,Airport,18.4,31,40,High
+10002,City Care Hospital,Kolkata,22.573,88.365,Hospital,7.1,15,17,Medium

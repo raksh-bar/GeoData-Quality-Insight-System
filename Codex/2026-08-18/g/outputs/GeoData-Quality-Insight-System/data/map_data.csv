@@ -1,0 +1,11 @@
+place_id,place_name,city,latitude,longitude,category,distance_km,normal_eta_min,actual_eta_min,traffic_level
+1,Airport,Kolkata,22.65,88.44,Airport,15,25,27,Medium
+2,Hospital,Kolkata,22.57,88.36,Hospital,8,15,16,Low
+3,Mall,Delhi,28.61,77.20,Mall,10,20,19,Low
+4,Park,Mumbai,999,72.87,Park,4,8,9,Low
+5,Airport,Kolkata,22.65,88.44,Airport,15,25,80,Low
+6,School,Delhi,,77.10,School,5,12,14,Medium
+7,Airport,Kolkata,22.65,88.44,Airport,15,25,27,Medium
+8,Lake,Bengaluru,12.97,250,Lake,6,18,20,High
+9,Station,Mumbai,19.07,72.88,Station,12,0,30,Low
+10,Temple,Chennai,13.08,80.27,Temple,9,15,15,Low
